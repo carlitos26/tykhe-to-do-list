@@ -1,3 +1,6 @@
+# Tykhe To Do List
+
+Base project built in React to make a simple to do list
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
